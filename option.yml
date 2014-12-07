@@ -1,0 +1,6 @@
+list: list.xls
+template: template.xls
+map:
+  1: B2 B17
+  2: D2 D17
+fname: 1
